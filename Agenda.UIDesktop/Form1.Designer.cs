@@ -51,6 +51,7 @@
             this.txtContatoNovo.Name = "txtContatoNovo";
             this.txtContatoNovo.Size = new System.Drawing.Size(469, 22);
             this.txtContatoNovo.TabIndex = 1;
+            this.txtContatoNovo.TextChanged += new System.EventHandler(this.txtContatoNovo_TextChanged);
             // 
             // lblContatoSalvo
             // 

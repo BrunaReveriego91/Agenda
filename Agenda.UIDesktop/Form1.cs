@@ -51,5 +51,10 @@ namespace Agenda.UIDesktop
             con.Close();
 
         }
+
+        private void txtContatoNovo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
